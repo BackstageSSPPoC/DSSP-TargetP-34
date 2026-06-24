@@ -15,4 +15,4 @@ metadata:
 spec:
   type: service
   lifecycle: dev
-  owner: Chaitanya-Shekhar-Pandey
+  owner: user:default/chaitanya-shekhar-pandey
